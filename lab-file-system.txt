@@ -1,4 +1,3 @@
-
 Lab - Navigating the File System
 ==========
 Follow the instructions line-by-line.  
@@ -13,11 +12,11 @@ Follow the instructions line-by-line.
 ----------
 
 ==========
-2. Create a directory called mtec1002.
+2. Create a directory called mtec1003.
 ----------
 
 ==========
-3. Change your directory so that you're in mtec1002.
+3. Change your directory so that you're in mtec1003.
 ----------
 
 ==========
@@ -25,14 +24,14 @@ Follow the instructions line-by-line.
 
 $ pwd
 
-Check that the output ends with mtec1002 (something like this: /Users/joe/mtec1002).
+Check that the output ends with mtec1003 (something like this: /Users/bree/mtec1003).
 
-If it doesn't start at #1 again, or ask for help before moving on!
+If it doesn't, start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
 
-
+/Users/student/mtec1003
 
 ==========
 5. Type:
@@ -42,6 +41,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
+animials
 
 
 
@@ -53,7 +53,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animials	food
 
 
 ==========
@@ -64,7 +64,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animials	foo		food
 
 
 ==========
@@ -75,7 +75,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/sotor
 
 
 ==========
@@ -87,7 +87,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/
 
 ==========
 10. Type:
@@ -98,7 +98,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/sotor
  
 ==========
 11. Type:
@@ -108,7 +108,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+No output
 
 
 ==========
@@ -120,7 +120,23 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
+total 16
+drwxr-xr-x    2 sotor  staff    68 May 23  2012 Applications
+drwx------+  47 sotor  staff  1598 Feb  6 00:33 Desktop
+drwx------+ 209 sotor  staff  7106 Jan  3 15:49 Documents
+drwx------+ 146 sotor  staff  4964 Feb  6 00:36 Downloads
+drwx------@  11 sotor  staff   374 Feb  6 12:35 Dropbox
+drwx------@  62 sotor  staff  2108 Oct 13 22:53 Library
+drwxr-xr-x   12 sotor  staff   408 May 21  2012 Matthew Soto_3D-Design_Revision+Extra Credit
+drwx------+   9 sotor  staff   306 May 17  2012 Movies
+drwx------+   6 sotor  staff   204 May 23  2014 Music
+drwx------+  20 sotor  staff   680 May 22  2014 Pictures
+drwxr-xr-x+   6 sotor  staff   204 Sep  9  2010 Public
+drwxr-xr-x+   6 sotor  staff   204 Feb 25  2011 Sites
+drwxr-xr-x    3 sotor  staff   102 Jun 23  2012 mask
+drwxr-xr-x    2 sotor  staff    68 Dec 20  2010 untitled folder
+-rw-r--r--    1 sotor  staff   288 Nov  7 13:15 untitled.mtl
+-rw-r--r--    1 sotor  staff  1460 Nov  7 13:15 untitled.obj
 
 
 ==========
@@ -131,7 +147,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/sotor
 
 
 ==========
@@ -142,7 +158,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
 
 
 ==========
@@ -154,39 +170,39 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/sotor
 
 ==========
-15. Type:
+16. Type:
 
-$ cd ~/mtec1002
+$ cd ~/mtec1003
 $ pwd
 
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/sotor
 
 ==========
-16. Type:
+17. Type:
 
 $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+matthewsotosmbp.home
 
 
 ==========
-17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
+18a. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+pwd
 
 ==========
-17b. If you're not in the right directory, type the following command:
+18b. If you're not in the right directory, type the following command:
 
-cd ~/mtec1002
+cd ~/mtec1003
 
 Otherwise skip this question/step!
 ----------
@@ -194,11 +210,11 @@ Otherwise skip this question/step!
 
 
 ==========
-18. Create the following directories, with each one inside each other.  The first one, pinapple, is the inner most:
+19. Create the following directories, with each one inside each other.  The first one, pineapple, is the inner most:
 
 pineapple
 orange
-strawbery
+strawberry
 lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
@@ -207,15 +223,16 @@ Use only one command to make all of these new directories.  Write what command y
 
 
 ==========
-19. Make another directory called aardvark.  
+20. Make another directory called aardvark.  
 
 Write the command you used to create the directory below:
 ----------
 
+mkdir aardvark
 
 
 ==========
-20. List the files and directories in the current directory using the long format.  
+21. List the files and directories in the current directory using the long format.  
 
 What is the modified date of the aardvark directory?
 ----------
@@ -223,7 +240,7 @@ What is the modified date of the aardvark directory?
 
 
 ==========
-21. Make 3 directories nested within each other:
+22. Make 3 directories nested within each other:
 
 * foo should be the outermost directory
 * bar should be the inside foo
@@ -234,8 +251,9 @@ What command did you use?
 
 
 
+
 ==========
-22. Change your directory so that you're in the inner most directory (baz)
+23. Change your directory so that you're in the inner most directory (baz)
 
 What command did you use?
 ----------
@@ -243,48 +261,49 @@ What command did you use?
 
 
 ==========
-23. Change your directory so that you're two directories up (foo)
+24. Change your directory so that you're two directories up (foo)
 
 What command did you use?
 ----------
 
+cd ../..
+==========
+25. What command is used to delete empty directories?
+----------
+rmdir
+
 
 ==========
-24. What command is used to delete empty directories?
+26. What command is used to print out your current working directory?
+----------
+pwd
+
+
+==========
+27. What flag do I pass to ls to print out all files?
 ----------
 
 
 
 ==========
-25. What command is used to print out your current working directory?
+28. What's the shortcut for home directory?
 ----------
 
+/Users/students
+
+==========
+29. What's a pathname?
+----------
+specifies the location of a file
 
 
 ==========
-26. What flag do I pass to ls to print out all files?
+30. What's a directory?
 ----------
 
-
+A directory is were all files a stored.
 
 ==========
-27. What's the shortcut for home directory?
+31. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
-
-
-
-==========
-28. What's a pathname?
-----------
-
-
-
-==========
-29. What's a directory?
-----------
-
-
-
-==========
-30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
-----------
+/Users/downloads
