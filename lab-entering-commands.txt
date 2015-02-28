@@ -13,12 +13,12 @@ Follow the instructions line-by-line.
 ==========
 1. Open Terminal.  Type:
 
-$ ls<ENTER>
+$ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
 
-
+Desktop		Documents	Downloads	Library		Movies		Music		My Song.band	Pictures	Public		Sites		Things		VirtualBox VMs	vms
 
 ==========
 2a. Type: 
@@ -27,15 +27,14 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-
+When I hit TAB while typing $ ls D, it completes the word Desktop.
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
 
-
-
+Desktop/   Documents/ Downloads/ Dropbox/  
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
@@ -49,7 +48,212 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+total 2022872
+drwxr-xr-x   3 sotor  staff       102 Oct 13 22:53 Arduino
+-rw-r--r--@  1 sotor  staff     27666 Sep 19  2012 Books To Buy.docx
+-rw-r--r--@  1 sotor  staff    738048 Dec  6  2011 CGI.pptx
+drwxr-xr-x   5 sotor  staff       170 Jul  4  2014 DAZ 3D
+-rw-r--r--@  1 sotor  staff     80667 Apr 14  2012 DS LIST 2.docx
+-rw-r--r--@  1 sotor  staff     76540 Apr  9  2012 DS LIST.docx
+-rw-r--r--   1 sotor  staff  63402387 May 11  2013 Demon.obj
+drwxr-xr-x  10 sotor  staff       340 Feb 27  2011 Drawing references
+-rw-r--r--@  1 sotor  staff     65729 Oct 21  2013 Endocrine glands.docx
+drwxr-xr-x   9 sotor  staff       306 Sep 18  2011 Final Cut Pro Documents
+-rw-r--r--   1 sotor  staff    147370 Sep 19  2012 GAME 1.pdf
+-rw-r--r--@  1 sotor  staff     28892 May 23  2014 Games for Mac.docx
+-rw-r--r--@  1 sotor  staff     30010 Feb 18  2013 H.docx
+-rw-r--r--@  1 sotor  staff     58690 Oct 15  2013 HW 6.docx
+-rw-r--r--@  1 sotor  staff     88926 Oct 23  2013 HW 8.docx
+-rw-r--r--@  1 sotor  staff     68138 Dec  5  2013 Histor references.docx
+-rw-r--r--@  1 sotor  staff     97665 Dec 12  2013 History Report.docx
+-rwxrwxrwx   1 sotor  staff   7196871 Aug 14  2013 IMG_0114.JPG
+-rwxrwxrwx   1 sotor  staff   7223542 Aug 14  2013 IMG_0115.JPG
+-rwxrwxrwx   1 sotor  staff   6415199 Aug 14  2013 IMG_0116.JPG
+-rwxrwxrwx   1 sotor  staff   5361218 Aug 15  2013 IMG_0117.JPG
+-rwxrwxrwx   1 sotor  staff   7076415 Aug 15  2013 IMG_0118.JPG
+-rwxrwxrwx   1 sotor  staff   7050187 Aug 15  2013 IMG_0119.JPG
+-rwxrwxrwx   1 sotor  staff   6151273 Aug 15  2013 IMG_0120.JPG
+-rwxrwxrwx   1 sotor  staff   5367329 Aug 15  2013 IMG_0121.JPG
+-rwxrwxrwx   1 sotor  staff   5817347 Aug 15  2013 IMG_0122.JPG
+-rwxrwxrwx   1 sotor  staff   8137211 Aug 15  2013 IMG_0123.JPG
+-rwxrwxrwx   1 sotor  staff  10633095 Aug 15  2013 IMG_0124.JPG
+-rwxrwxrwx   1 sotor  staff   7012641 Aug 15  2013 IMG_0125.JPG
+-rwxrwxrwx   1 sotor  staff   8587031 Aug 15  2013 IMG_0126.JPG
+-rwxrwxrwx   1 sotor  staff   7962924 Aug 15  2013 IMG_0128.JPG
+-rwxrwxrwx   1 sotor  staff   7176328 Aug 15  2013 IMG_0129.JPG
+-rwxrwxrwx   1 sotor  staff   7785752 Aug 15  2013 IMG_0130.JPG
+-rwxrwxrwx   1 sotor  staff   7097007 Aug 15  2013 IMG_0131.JPG
+-rwxrwxrwx   1 sotor  staff   9453043 Aug 15  2013 IMG_0132.JPG
+-rwxrwxrwx   1 sotor  staff   6505278 Aug 15  2013 IMG_0133.JPG
+-rwxrwxrwx   1 sotor  staff  11980361 Aug 15  2013 IMG_0134.JPG
+-rwxrwxrwx   1 sotor  staff   5984133 Aug 15  2013 IMG_0135.JPG
+-rwxrwxrwx   1 sotor  staff   6270710 Aug 15  2013 IMG_0136.JPG
+-rwxrwxrwx   1 sotor  staff   4800856 Aug 15  2013 IMG_0137.JPG
+-rwxrwxrwx   1 sotor  staff   7560044 Aug 15  2013 IMG_0138.JPG
+-rwxrwxrwx   1 sotor  staff   6456005 Aug 15  2013 IMG_0139.JPG
+-rwxrwxrwx   1 sotor  staff   5277661 Aug 15  2013 IMG_0140.JPG
+-rwxrwxrwx   1 sotor  staff   5481262 Aug 15  2013 IMG_0141.JPG
+-rwxrwxrwx   1 sotor  staff   5841195 Aug 15  2013 IMG_0142.JPG
+-rwxrwxrwx   1 sotor  staff   4867216 Aug 15  2013 IMG_0143.JPG
+-rwxrwxrwx   1 sotor  staff   4844005 Aug 15  2013 IMG_0144.JPG
+-rwxrwxrwx   1 sotor  staff   5597510 Aug 15  2013 IMG_0145.JPG
+-rwxrwxrwx   1 sotor  staff   6462575 Aug 15  2013 IMG_0146.JPG
+-rwxrwxrwx   1 sotor  staff   7482690 Aug 15  2013 IMG_0147.JPG
+-rwxrwxrwx   1 sotor  staff   6377150 Aug 15  2013 IMG_0148.JPG
+-rwxrwxrwx   1 sotor  staff   5552406 Aug 15  2013 IMG_0149.JPG
+-rwxrwxrwx   1 sotor  staff   5675674 Aug 15  2013 IMG_0150.JPG
+-rwxrwxrwx   1 sotor  staff   5206047 Aug 15  2013 IMG_0151.JPG
+-rwxrwxrwx   1 sotor  staff   9659052 Aug 15  2013 IMG_0152.JPG
+-rwxrwxrwx   1 sotor  staff   4091693 Aug 15  2013 IMG_0153.JPG
+-rwxrwxrwx   1 sotor  staff   4103575 Aug 15  2013 IMG_0154.JPG
+-rwxrwxrwx   1 sotor  staff   4090843 Aug 15  2013 IMG_0155.JPG
+-rwxrwxrwx   1 sotor  staff   4198621 Aug 15  2013 IMG_0156.JPG
+-rwxrwxrwx   1 sotor  staff   4194843 Aug 15  2013 IMG_0157.JPG
+-rwxrwxrwx   1 sotor  staff   6592299 Aug 15  2013 IMG_0158.JPG
+-rwxrwxrwx   1 sotor  staff   7731467 Aug 15  2013 IMG_0159.JPG
+-rwxrwxrwx   1 sotor  staff   8271348 Aug 15  2013 IMG_0160.JPG
+-rwxrwxrwx   1 sotor  staff   6003369 Aug 15  2013 IMG_0161.JPG
+-rwxrwxrwx   1 sotor  staff   5851523 Aug 15  2013 IMG_0162.JPG
+-rwxrwxrwx   1 sotor  staff   5427233 Aug 15  2013 IMG_0163.JPG
+-rwxrwxrwx   1 sotor  staff   5727771 Aug 15  2013 IMG_0164.JPG
+-rwxrwxrwx   1 sotor  staff   6279816 Aug 15  2013 IMG_0165.JPG
+-rwxrwxrwx   1 sotor  staff   6306698 Aug 15  2013 IMG_0166.JPG
+-rwxrwxrwx   1 sotor  staff   6269709 Aug 15  2013 IMG_0167.JPG
+-rwxrwxrwx   1 sotor  staff   6163026 Aug 15  2013 IMG_0168.JPG
+-rwxrwxrwx   1 sotor  staff   6189453 Aug 15  2013 IMG_0169.JPG
+-rwxrwxrwx   1 sotor  staff   6850999 Aug 15  2013 IMG_0170.JPG
+-rwxrwxrwx   1 sotor  staff   6965358 Aug 15  2013 IMG_0171.JPG
+-rwxrwxrwx   1 sotor  staff   6831067 Aug 15  2013 IMG_0172.JPG
+-rwxrwxrwx   1 sotor  staff   6915523 Aug 15  2013 IMG_0173.JPG
+-rwxrwxrwx   1 sotor  staff   7067718 Aug 15  2013 IMG_0174.JPG
+-rwxrwxrwx   1 sotor  staff   7053369 Aug 15  2013 IMG_0175.JPG
+-rwxrwxrwx   1 sotor  staff   7080575 Aug 15  2013 IMG_0176.JPG
+-rwxrwxrwx   1 sotor  staff   7067716 Aug 15  2013 IMG_0177.JPG
+-rwxrwxrwx   1 sotor  staff   7221061 Aug 15  2013 IMG_0178.JPG
+-rwxrwxrwx   1 sotor  staff   6728520 Aug 15  2013 IMG_0179.JPG
+-rwxrwxrwx   1 sotor  staff   7423052 Aug 15  2013 IMG_0180.JPG
+-rwxrwxrwx   1 sotor  staff   8909525 Aug 15  2013 IMG_0181.JPG
+-rwxrwxrwx   1 sotor  staff   6516494 Aug 15  2013 IMG_0182.JPG
+-rwxrwxrwx   1 sotor  staff   7340956 Aug 15  2013 IMG_0183.JPG
+-rwxrwxrwx   1 sotor  staff   9526296 Aug 15  2013 IMG_0184.JPG
+-rwxrwxrwx   1 sotor  staff   5397685 Aug 15  2013 IMG_0185.JPG
+-rwxrwxrwx   1 sotor  staff   4853678 Aug 15  2013 IMG_0186.JPG
+-rwxrwxrwx   1 sotor  staff   5253529 Aug 15  2013 IMG_0187.JPG
+-rwxrwxrwx   1 sotor  staff   5384839 Aug 15  2013 IMG_0188.JPG
+-rwxrwxrwx   1 sotor  staff   6041193 Aug 15  2013 IMG_0189.JPG
+-rwxrwxrwx   1 sotor  staff   6190912 Aug 15  2013 IMG_0190.JPG
+-rwxrwxrwx   1 sotor  staff   6919436 Aug 15  2013 IMG_0191.JPG
+-rwxrwxrwx   1 sotor  staff   6198641 Aug 15  2013 IMG_0192.JPG
+-rwxrwxrwx   1 sotor  staff   6757141 Aug 15  2013 IMG_0193.JPG
+-rwxrwxrwx   1 sotor  staff   5154946 Aug 15  2013 IMG_0194.JPG
+-rwxrwxrwx   1 sotor  staff   5110754 Aug 15  2013 IMG_0195.JPG
+-rwxrwxrwx   1 sotor  staff   5311936 Aug 15  2013 IMG_0196.JPG
+-rwxrwxrwx   1 sotor  staff   4913560 Aug 15  2013 IMG_0197.JPG
+-rwxrwxrwx   1 sotor  staff   4291295 Aug 15  2013 IMG_0198.JPG
+-rwxrwxrwx   1 sotor  staff   6277942 Aug 15  2013 IMG_0199.JPG
+-rwxrwxrwx   1 sotor  staff   7361083 Aug 15  2013 IMG_0200.JPG
+-rwxrwxrwx   1 sotor  staff   9233249 Aug 15  2013 IMG_0201.JPG
+-rwxrwxrwx   1 sotor  staff   8919149 Aug 15  2013 IMG_0202.JPG
+-rwxrwxrwx   1 sotor  staff   9089841 Aug 15  2013 IMG_0203.JPG
+-rwxrwxrwx   1 sotor  staff   9581207 Aug 15  2013 IMG_0204.JPG
+-rwxrwxrwx   1 sotor  staff   9439815 Aug 15  2013 IMG_0205.JPG
+-rwxrwxrwx   1 sotor  staff   9689326 Aug 15  2013 IMG_0206.JPG
+-rwxrwxrwx   1 sotor  staff   9576404 Aug 15  2013 IMG_0207.JPG
+-rwxrwxrwx   1 sotor  staff   9680915 Aug 15  2013 IMG_0208.JPG
+-rwxrwxrwx   1 sotor  staff   9755030 Aug 15  2013 IMG_0209.JPG
+-rwxrwxrwx   1 sotor  staff  10031527 Aug 15  2013 IMG_0210.JPG
+-rwxrwxrwx   1 sotor  staff   9916943 Aug 15  2013 IMG_0211.JPG
+-rwxrwxrwx   1 sotor  staff   9955916 Aug 15  2013 IMG_0212.JPG
+-rwxrwxrwx   1 sotor  staff   9790680 Aug 15  2013 IMG_0213.JPG
+-rwxrwxrwx   1 sotor  staff   9952170 Aug 15  2013 IMG_0214.JPG
+-rwxrwxrwx   1 sotor  staff   9531824 Aug 15  2013 IMG_0215.JPG
+-rwxrwxrwx   1 sotor  staff   9947414 Aug 15  2013 IMG_0216.JPG
+-rwxrwxrwx   1 sotor  staff   9766229 Aug 15  2013 IMG_0217.JPG
+-rwxrwxrwx   1 sotor  staff  10130808 Aug 15  2013 IMG_0218.JPG
+-rwxrwxrwx   1 sotor  staff   6709695 Aug 15  2013 IMG_0219.JPG
+-rwxrwxrwx   1 sotor  staff   5426142 Aug 15  2013 IMG_0220.JPG
+-rwxrwxrwx   1 sotor  staff   5453168 Aug 15  2013 IMG_0221.JPG
+-rwxrwxrwx   1 sotor  staff   5314554 Aug 15  2013 IMG_0222.JPG
+-rwxrwxrwx   1 sotor  staff   5357550 Aug 15  2013 IMG_0223.JPG
+-rwxrwxrwx   1 sotor  staff   5508925 Aug 15  2013 IMG_0224.JPG
+-rwxrwxrwx   1 sotor  staff   5143067 Aug 15  2013 IMG_0225.JPG
+-rwxrwxrwx   1 sotor  staff   5565567 Aug 15  2013 IMG_0226.JPG
+-rwxrwxrwx   1 sotor  staff   5335996 Aug 15  2013 IMG_0227.JPG
+-rwxrwxrwx   1 sotor  staff   5572113 Aug 15  2013 IMG_0228.JPG
+-rwxrwxrwx   1 sotor  staff   4652753 Aug 15  2013 IMG_0229.JPG
+-rwxrwxrwx   1 sotor  staff   4843135 Aug 15  2013 IMG_0230.JPG
+-rwxrwxrwx   1 sotor  staff   4876762 Aug 15  2013 IMG_0231.JPG
+-rwxrwxrwx   1 sotor  staff   4774707 Aug 15  2013 IMG_0232.JPG
+-rwxrwxrwx   1 sotor  staff   7153070 Aug 15  2013 IMG_0233.JPG
+-rwxrwxrwx   1 sotor  staff   9102207 Aug 15  2013 IMG_0234.JPG
+-rwxrwxrwx   1 sotor  staff   4153527 Aug 15  2013 IMG_0235.JPG
+-rwxrwxrwx   1 sotor  staff   4270687 Aug 15  2013 IMG_0236.JPG
+-rwxrwxrwx   1 sotor  staff   4141423 Aug 15  2013 IMG_0237.JPG
+-rwxrwxrwx   1 sotor  staff   4160381 Aug 15  2013 IMG_0238.JPG
+-rwxrwxrwx   1 sotor  staff   4726543 Aug 15  2013 IMG_0239.JPG
+-rwxrwxrwx   1 sotor  staff   4491552 Aug 15  2013 IMG_0240.JPG
+-rwxrwxrwx   1 sotor  staff   4449802 Aug 15  2013 IMG_0241.JPG
+-rwxrwxrwx   1 sotor  staff   4468876 Aug 15  2013 IMG_0242.JPG
+-rwxrwxrwx   1 sotor  staff   4968983 Aug 15  2013 IMG_0243.JPG
+-rwxrwxrwx   1 sotor  staff   4701695 Aug 15  2013 IMG_0244.JPG
+-rwxrwxrwx   1 sotor  staff   4309628 Aug 15  2013 IMG_0245.JPG
+-rwxrwxrwx   1 sotor  staff   4315542 Aug 15  2013 IMG_0246.JPG
+-rwxrwxrwx   1 sotor  staff   4408913 Aug 15  2013 IMG_0247.JPG
+-rwxrwxrwx   1 sotor  staff   4485368 Aug 15  2013 IMG_0248.JPG
+-rwxrwxrwx   1 sotor  staff   4671483 Aug 15  2013 IMG_0249.JPG
+-rwxrwxrwx   1 sotor  staff   4749882 Aug 15  2013 IMG_0250.JPG
+-rwxrwxrwx   1 sotor  staff   4863361 Aug 15  2013 IMG_0251.JPG
+-rwxrwxrwx   1 sotor  staff   4907477 Aug 15  2013 IMG_0252.JPG
+-rwxrwxrwx   1 sotor  staff   4843341 Aug 15  2013 IMG_0253.JPG
+-rwxrwxrwx   1 sotor  staff   3986685 Aug 15  2013 IMG_0254.JPG
+-rwxrwxrwx   1 sotor  staff   4950033 Aug 15  2013 IMG_0255.JPG
+-rwxrwxrwx   1 sotor  staff   6573716 Aug 15  2013 IMG_0256.JPG
+-rw-r--r--@  1 sotor  staff     52397 Sep 24  2013 Jobs to look at.docx
+-rw-r--r--@  1 sotor  staff     48763 May  6  2013 LIST OF WII U GAMES.docx
+-rw-r--r--@  1 sotor  staff     61566 Jun  7  2014 List of Games to Get for the PS4.docx
+-rw-r--r--@  1 sotor  staff     28391 May 28  2013 List of Mac games.docx
+-rw-r--r--@  1 sotor  staff     49824 Sep 19  2013 List of T.docx
+-rw-r--r--@  1 sotor  staff    315221 Oct 13  2013 List of game to buy.docx
+-rw-r--r--@  1 sotor  staff     50168 Aug 25  2013 List of movies to watch.docx
+-rw-r--r--@  1 sotor  staff     47931 Feb 16  2014 List of shows to watch.docx
+-rw-r--r--@  1 sotor  staff     79899 Nov 28 14:39 List.docx
+-rw-r--r--   1 sotor  staff   3104794 Mar 31  2013 Male chest paint job 2.sc1
+-rw-r--r--   1 sotor  staff   3013796 Mar 31  2013 Male chest paint job.sc1
+-rw-r--r--@  1 sotor  staff     84152 Jun 14  2013 Matthew K.docx
+drwxr-xr-x  14 sotor  staff       476 Mar  1  2011 Microsoft User Data
+-rw-r--r--@  1 sotor  staff     94634 Oct 16  2013 Mitosis.docx
+-rw-r--r--   1 sotor  staff    577085 Oct 13  2012 New Head 4.sc1
+-rw-r--r--@  1 sotor  staff    265230 Apr 20  2012 Othello.fcp
+drwxr-xr-x   8 sotor  staff       272 Dec 27  2013 PS Vita
+-rw-r--r--@  1 sotor  staff     82120 Mar 20  2013 Presentation3.pptx
+drwxr-xr-x   9 sotor  staff       306 Mar 16  2014 Processing
+drwxr-xr-x   4 sotor  staff       136 Mar 21  2012 RDC Connections
+-rw-r--r--@  1 sotor  staff   1246425 Nov 29  2011 Recovered File 1.pptx
+drwxr-xr-x   2 sotor  staff        68 Jul 15  2011 Roxio Converted Items
+-rw-r--r--@  1 sotor  staff    223916 Apr 13  2014 Shipping Options.docx
+-rw-r--r--@  1 sotor  staff    197680 Nov 20 01:51 Shopping Cart 2.docx
+-rw-r--r--@  1 sotor  staff    280895 Oct  4  2013 Shopping Cart.docx
+-rw-r--r--@  1 sotor  staff     79791 Oct 11  2012 TIckets_to_Ride_Expansion.pptx
+-rw-r--r--@  1 sotor  staff     87146 Nov 25  2012 Things to buy.docx
+-rw-r--r--@  1 sotor  staff   1130382 Jun 13  2013 Untitled-1-01.jpg
+-rw-r--r--@  1 sotor  staff   1143349 Jun 13  2013 Untitled-1.jpg
+-rw-r--r--@  1 sotor  staff     34022 Dec 31  2000 VERIZON INTERNET CODE.docx
+-rw-r--r--   1 sotor  staff     51672 Jul 14  2012 Voltage Head.obj
+-rw-r--r--@  1 sotor  staff    128822 Feb 17 03:06 Week 1 Day 1.docx
+-rw-r--r--@  1 sotor  staff     47242 Nov 21 01:51 When I was thinking about my idea for the final project.docx
+-rw-r--r--@  1 sotor  staff     71805 Oct  7  2013 anatomy.docx
+-rw-r--r--   1 sotor  staff  16060644 Dec  9  2012 antigen 1 6.sc1
+-rw-r--r--@  1 sotor  staff     85810 Aug  7  2013 books to buy .docx
+-rw-r--r--@  1 sotor  staff    341225 Aug 24  2012 design 2.ai
+-rw-r--r--   1 sotor  staff   1415752 Jul 12  2012 design.sc1
+-rw-r--r--@  1 sotor  staff  12646332 Apr 21  2013 dimage_vista_grass_by_dimage.psd
+-rw-r--r--@  1 sotor  staff    301363 Apr 16  2013 image-4.ai
+drwxr-xr-x   3 sotor  staff       102 Feb 18  2014 maya
+-rw-r--r--@  1 sotor  staff    569678 Mar 30  2012 pic 2.ai
+-rw-r--r--@  1 sotor  staff    470114 Jun 12  2013 samurai_girl_1202124431_787552 2.ai
+-rw-r--r--@  1 sotor  staff    650229 Jun 19  2013 samurai_girl_1202124431_787552 4.ai
+-rw-r--r--@  1 sotor  staff    896402 Jun 18  2013 samurai_girl_1202124431_787552.ai
+drwxr-xr-x   7 sotor  staff       238 Apr 22  2013 sketch_Hw_11_2
 
 
 ==========
@@ -60,6 +264,216 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
+.
+..
+.DS_Store
+.localized
+.mayaSwatches
+Arduino
+Books To Buy.docx
+CGI.pptx
+DAZ 3D
+DS LIST 2.docx
+DS LIST.docx
+Demon.obj
+Drawing references
+Endocrine glands.docx
+Final Cut Pro Documents
+GAME 1.pdf
+Games for Mac.docx
+H.docx
+HW 6.docx
+HW 8.docx
+Histor references.docx
+History Report.docx
+IMG_0114.JPG
+IMG_0115.JPG
+IMG_0116.JPG
+IMG_0117.JPG
+IMG_0118.JPG
+IMG_0119.JPG
+IMG_0120.JPG
+IMG_0121.JPG
+IMG_0122.JPG
+IMG_0123.JPG
+IMG_0124.JPG
+IMG_0125.JPG
+IMG_0126.JPG
+IMG_0128.JPG
+IMG_0129.JPG
+IMG_0130.JPG
+IMG_0131.JPG
+IMG_0132.JPG
+IMG_0133.JPG
+IMG_0134.JPG
+IMG_0135.JPG
+IMG_0136.JPG
+IMG_0137.JPG
+IMG_0138.JPG
+IMG_0139.JPG
+IMG_0140.JPG
+IMG_0141.JPG
+IMG_0142.JPG
+IMG_0143.JPG
+IMG_0144.JPG
+IMG_0145.JPG
+IMG_0146.JPG
+IMG_0147.JPG
+IMG_0148.JPG
+IMG_0149.JPG
+IMG_0150.JPG
+IMG_0151.JPG
+IMG_0152.JPG
+IMG_0153.JPG
+IMG_0154.JPG
+IMG_0155.JPG
+IMG_0156.JPG
+IMG_0157.JPG
+IMG_0158.JPG
+IMG_0159.JPG
+IMG_0160.JPG
+IMG_0161.JPG
+IMG_0162.JPG
+IMG_0163.JPG
+IMG_0164.JPG
+IMG_0165.JPG
+IMG_0166.JPG
+IMG_0167.JPG
+IMG_0168.JPG
+IMG_0169.JPG
+IMG_0170.JPG
+IMG_0171.JPG
+IMG_0172.JPG
+IMG_0173.JPG
+IMG_0174.JPG
+IMG_0175.JPG
+IMG_0176.JPG
+IMG_0177.JPG
+IMG_0178.JPG
+IMG_0179.JPG
+IMG_0180.JPG
+IMG_0181.JPG
+IMG_0182.JPG
+IMG_0183.JPG
+IMG_0184.JPG
+IMG_0185.JPG
+IMG_0186.JPG
+IMG_0187.JPG
+IMG_0188.JPG
+IMG_0189.JPG
+IMG_0190.JPG
+IMG_0191.JPG
+IMG_0192.JPG
+IMG_0193.JPG
+IMG_0194.JPG
+IMG_0195.JPG
+IMG_0196.JPG
+IMG_0197.JPG
+IMG_0198.JPG
+IMG_0199.JPG
+IMG_0200.JPG
+IMG_0201.JPG
+IMG_0202.JPG
+IMG_0203.JPG
+IMG_0204.JPG
+IMG_0205.JPG
+IMG_0206.JPG
+IMG_0207.JPG
+IMG_0208.JPG
+IMG_0209.JPG
+IMG_0210.JPG
+IMG_0211.JPG
+IMG_0212.JPG
+IMG_0213.JPG
+IMG_0214.JPG
+IMG_0215.JPG
+IMG_0216.JPG
+IMG_0217.JPG
+IMG_0218.JPG
+IMG_0219.JPG
+IMG_0220.JPG
+IMG_0221.JPG
+IMG_0222.JPG
+IMG_0223.JPG
+IMG_0224.JPG
+IMG_0225.JPG
+IMG_0226.JPG
+IMG_0227.JPG
+IMG_0228.JPG
+IMG_0229.JPG
+IMG_0230.JPG
+IMG_0231.JPG
+IMG_0232.JPG
+IMG_0233.JPG
+IMG_0234.JPG
+IMG_0235.JPG
+IMG_0236.JPG
+IMG_0237.JPG
+IMG_0238.JPG
+IMG_0239.JPG
+IMG_0240.JPG
+IMG_0241.JPG
+IMG_0242.JPG
+IMG_0243.JPG
+IMG_0244.JPG
+IMG_0245.JPG
+IMG_0246.JPG
+IMG_0247.JPG
+IMG_0248.JPG
+IMG_0249.JPG
+IMG_0250.JPG
+IMG_0251.JPG
+IMG_0252.JPG
+IMG_0253.JPG
+IMG_0254.JPG
+IMG_0255.JPG
+IMG_0256.JPG
+Jobs to look at.docx
+LIST OF WII U GAMES.docx
+List of Games to Get for the PS4.docx
+List of Mac games.docx
+List of T.docx
+List of game to buy.docx
+List of movies to watch.docx
+List of shows to watch.docx
+List.docx
+Male chest paint job 2.sc1
+Male chest paint job.sc1
+Matthew K.docx
+Microsoft User Data
+Mitosis.docx
+New Head 4.sc1
+Othello.fcp
+PS Vita
+Presentation3.pptx
+Processing
+RDC Connections
+Recovered File 1.pptx
+Roxio Converted Items
+Shipping Options.docx
+Shopping Cart 2.docx
+Shopping Cart.docx
+TIckets_to_Ride_Expansion.pptx
+Things to buy.docx
+Untitled-1-01.jpg
+Untitled-1.jpg
+VERIZON INTERNET CODE.docx
+Voltage Head.obj
+Week 1 Day 1.docx
+When I was thinking about my idea for the final project.docx
+anatomy.docx
+antigen 1 6.sc1
+books to buy .docx
+design 2.ai
+design.sc1
+dimage_vista_grass_by_dimage.psd
+image-4.ai
+maya
+pic 2.ai
+samurai_girl_1202124431_787552 2.ai
+samurai_girl_1202124431_787552 4.ai
+samurai_girl_1202124431_787552.ai
+sketch_Hw_11_2
 
 
 ==========
@@ -70,6 +484,7 @@ Copy and paste the first *two lines* of output below.
 What command was repeated?
 ----------
 
+ls -a Documents
 
 
 ==========
@@ -80,7 +495,7 @@ What command was repeated?
 What command was repeated?
 ----------
 
-
+ls -a Documents
 
 ==========
 7.  Type:
@@ -90,7 +505,7 @@ $ ls /Vol<TAB><ENTER>
 What is the result of pressing tab?
 ----------
 
-
+ls /Volumes/
 
 ==========
 8.  Type:
@@ -100,13 +515,13 @@ $ ls doesnotexist
 Copy and paste the output below.
 ----------
 
-
+ls: doesnotexist: No such file or directory
 
 ==========
 9.  What key do I press to go to the previous command?
 ----------
 
-
+<UP> <ENTER>
 
 ==========
 10.  Name two flags that we used in this exercise.
@@ -117,14 +532,13 @@ Copy and paste the output below.
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
-
-
+<TAB>
 
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
 
-
+<TAB>
 
 ==========
 13.  Name one argument that we passed to the command.
@@ -140,7 +554,7 @@ $ foo<ENTER>
 Copy and paste the output below.
 ----------
 
-
+-bash: foo: command not found
 
 ==========
 15.  Type:
@@ -150,7 +564,7 @@ Copy and paste the output below.
 Copy and paste the output below.
 ----------
 
-
+foo
 
 ==========
 16.  In the following line....
@@ -158,4 +572,3 @@ Copy and paste the output below.
 $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
-----------
